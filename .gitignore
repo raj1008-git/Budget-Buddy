@@ -1,0 +1,7 @@
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend (for later)
+frontend/.dart_tool/
+frontend/build/
